@@ -1,0 +1,12 @@
+@charset "UTF-8";
+.form-group input {
+      width: 100%;
+      max-width: 400px;
+    }
+    body {
+      background-image: url("./img/login-bro.png");
+      background-repeat: no-repeat;
+      background-size: 600px;
+      justify-content: center;
+      align-items: center;
+    }
